@@ -31,6 +31,17 @@ Esc: Pause game
 Tab (Press & Hold): Leaderboard
 </pre>
 
+### Shooting (In-Game):
+
+<pre>
+
+Aiming: Move the mouse either left or right towards the direction that you wish to fire in
+
+Firing: - Hold the right mouse button and move the mouse either left or right towards the direction that you wish to fire in
+        - Whilst holding down the left mouse button, use the right mouse button to cancel the shot
+        - Release the left mouse button to fire the ball
+</pre>
+
 ### Camera (In-Game):
 
 <pre>
