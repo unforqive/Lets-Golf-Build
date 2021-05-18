@@ -21,6 +21,7 @@ Once your download is finished, extract the ***Lets Golf! Build*** folder anywhe
 Go inside the newly extracted folder and double click on ***Lets Golf!.exe*** to open and run it.
 
 ## Controls
+A list of controls will be added into the game soon. For now, refer to the controls listed below.
 
 ### In-Game:
 
