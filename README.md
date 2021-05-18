@@ -7,7 +7,8 @@ Thanks for checking out this project!
 
 Current status at a glance:
 
-<pre>Unity Version: 2020.2.4f1
+<pre>
+Unity Version: 2020.2.4f1
 Platform     : Windows
 Current State: Beta
 Build Size   : 43 MB (Compressed), ~265 MB (Uncompressed)
@@ -23,11 +24,16 @@ Go inside the newly extracted folder and double click on ***Lets Golf!.exe*** to
 
 ### In-Game:
 
+<pre>
+
 Esc: Pause game
 
-Tab: (Press & Hold): Leaderboard
+Tab (Press & Hold): Leaderboard
+</pre>
 
 ### Camera (In-Game):
+
+<pre>
 
 Right Mouse Button + W: Move camera forward
 
@@ -36,3 +42,4 @@ Right Mouse Button + A: Move camera to the left
 Right Mouse Button + S: Move camera backward
 
 Right Mouse Button + D: Move camera to the right
+</pre>
